@@ -1,0 +1,21 @@
+.registration__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 85vh;
+}
+
+.registration__content {
+    display: flex;
+    flex-direction: column; 
+    margin-top: 8rem;
+    align-items: center;
+    width: 60%;
+    height: 70%;
+    border: 1px solid #ccc;
+    padding: 2rem;
+}
+
+.btn {
+    background-color: black;
+}
